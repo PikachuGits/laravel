@@ -1,17 +1,17 @@
 {
-    "name": "reliese/laravel",
+    "name": "pikachugits/reliese-laravel",
     "description": "Reliese Components for Laravel Framework code generation.",
     "keywords": ["reliese", "laravel"],
     "homepage": "http://cristianllanos.com",
     "support": {
-        "issues": "https://github.com/reliese/laravel/issues",
-        "source": "https://github.com/reliese/laravel"
+        "issues": "https://github.com/PikachuGits/laravel/issues",
+        "source": "https://github.com/PikachuGits/laravel"
     },
     "license": "MIT",
     "authors": [
         {
-            "name": "Cristian Llanos",
-            "email": "cristianllanos@outlook.com"
+            "name": "PikachuGits",
+            "email": "amnspace@o163.com"
         }
     ],
     "require": {
